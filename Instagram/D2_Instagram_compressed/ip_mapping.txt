@@ -1,4 +1,4 @@
-Local User: 
+Local user: 
 127.0.1.*
 
 CDN:
